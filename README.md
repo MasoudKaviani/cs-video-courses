@@ -533,6 +533,9 @@ Table of Contents
   - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
   - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
   - [Toronto ECE 1513 Introduction to Machine Learning winter 2026, by Ali Bereyhi](https://youtube.com/playlist?list=PLcFgNUo9s_Aj9a8fXwMdqfEk3_h5RtoLs)
+  - [Machine Learning and AI with Python](https://pll.harvard.edu/course/machine-learning-and-ai-python/2026-05)
+  - [CS 228: Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
+  - [CS 229: Machine Learning](https://see.stanford.edu/Course/CS229)
 
   
 - #### **Data Mining**
@@ -618,6 +621,7 @@ Table of Contents
   - [Toronto ECE 1508 Applied Deep Learning winter 2026, by Ali Bereyhi](https://bereyhi-courses.github.io/dl-utoronto/lectures/)[Youtube](https://youtube.com/playlist?list=PLcFgNUo9s_AjLubVnhoQX3nOz4hJsfnd7)
   - [UC Berkeley CS 182 / 282a Deep Learning fall 2025, by Gireeja Ranade & Anant Sahai](https://berkeley-cs182.github.io/fa25/)[Youtube](https://youtube.com/playlist?list=PLIygTcviGPKCJO2wgN4rjqRFozoPjvWQs)
   - [SNU M2177.43 Introduction to Deep Learning spring 2026, by Hyun Oh Song](https://www.youtube.com/@hyunohsong1952/videos)
+  - [CS 230: Deep Learning](https://cs230.stanford.edu/)
 
   
 - #### **Reinforcement Learning**
@@ -701,6 +705,7 @@ Table of Contents
   - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
   - [Deep Learning for NLP (KAIST AI605 Fall 2021)](https://www.youtube.com/playlist?list=PLN9tAT2r9TDy9tPOfgYm28Wl3D4vYm0Zs)
+  - [CS 224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
   
 - #### **Generative AI and LLMs**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
@@ -739,6 +744,9 @@ Table of Contents
   - [ECE1508: Deep Generative Models - Summer 2025 - UofT](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgUro3pIv1BoGOzNIVh4mpP)
   - [6.S980 Machine Learning for Inverse Graphics - Fall 2022 - MIT](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/)
   - [6.S087 - Foundation Models and Generative AI - MIT](https://www.futureofai.mit.edu/)
+  - [LLM Course](https://github.com/mlabonne/llm-course)
+  - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+  - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -759,6 +767,7 @@ Table of Contents
   - [Advanced Deep Learning for Physics (ADL4P) - TU Munich](https://tum-pbs.github.io/ADL4P/)
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
   - [Lecture: Computer Vision, University of Tübingen - Andreas Geiger](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) ([YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_))
+  - [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
   
 - #### **Time Series Analysis**
   - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
@@ -848,6 +857,7 @@ Table of Contents
   - [CS 2881 AI Safety - Harvard - Fall 2025](https://boazbk.github.io/mltheoryseminar/) ([Youtube](https://www.youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W))
   - [Chat GPT-X and Generative Models for EM Systems Design - KAIST](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e)
   - [CS492(F) Computational Learning Theory (Fall 2021, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xzOggE1dvO4gcFr6Rf2AfeN)
+  - [CS224W: Machine Learning with Graphs](https://cs224w.stanford.edu/)
 
 
 ------------------------------
